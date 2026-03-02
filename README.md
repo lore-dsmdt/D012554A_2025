@@ -101,7 +101,7 @@ Hands on:
 <details>
 
 ---
-**9:00 - 9:45 | Logistic regression (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+**9:00 - 9:45 | Logistic regression and SVM (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
 Lecture slides:
 [1_introduction.pptx](https://github.com/compomics/ML-course-VIB-2024/raw/refs/heads/master/slides/1_introduction.pptx)
