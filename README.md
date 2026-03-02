@@ -29,6 +29,12 @@
 - Written exam: 50%
     - Theoretical exam Thursday 18/06 13:00
 
+## Lecture "recordings"
+
+For those unable to attend the lectures these lectures cover the classical ML part (week 1):
+
+[Lecture classical ML, dr. Sven Degroeve](https://www.youtube.com/playlist?list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e)
+
 ## Schedule
 
 <details>
