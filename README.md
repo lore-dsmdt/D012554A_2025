@@ -157,10 +157,20 @@ Hands on:
 
 </details>
 
-### Day 5 (Friday - 6th March)
+### Day 4 (Thursday - 5th March)
 
 <details>
 
+---
+**9:00 - 11:30 | AlphaFold and co (Leslokaal 3.1. B3. Campus UZ Gent)** (Jasper Zuallaert)
+
+Lecture slides:
+
+Will be made available
+
+---
+
+**13:00 - 16:00 | Kaggle/microteaching (Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans)** (Arthur Declercq)
 
 </details>
 
