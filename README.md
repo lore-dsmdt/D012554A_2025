@@ -178,9 +178,31 @@ Will be made available
 
 <details>
 
+---
+**8:30 - 9:45 | Clustering (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
 
+Lecture slides:
+[7_clustering.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_5/7_clustering.pptx)
+
+Lecture slides:
+[8_dimensionality_reduction.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_5/8_dimensionality_reduction.pptx)
+
+**10:15 - 11:30 | Kaggle (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbin Bouwmeester)
+
+---
+
+**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal 3.2. K3. Campus UZ Gent)** (Alireza Nameni)
+
+Hands on: 
+
+[5.1a_Clustering.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_5/5.1a_Clustering.ipynb)
+
+[5.1b_Exercises_Clustering.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_5/5.1b_Exercises_Clustering.ipynb) 
+
+[5.2a_Dimensionality_reduction.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_5/5.2a_Dimensionality_reduction.ipynb)
+
+[5.2b_Exercises_Dimensionality_reduction.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_5/5.2b_Exercises_Dimensionality_reduction.ipynb)
 </details>
-
 
 ## Further learning
 
