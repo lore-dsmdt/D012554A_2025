@@ -166,7 +166,7 @@ Hands on:
 
 Lecture slides:
 
-Will be made available
+[20260303_AlphaFold_guest_lecture_annotated.pptx](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_4/20260303_AlphaFold_guest_lecture_annotated.pptx)
 
 ---
 
