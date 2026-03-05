@@ -191,7 +191,7 @@ Lecture slides:
 
 ---
 
-**13:00 - 16:00 | Introduction to Machine Learning (Leslokaal 3.2. K3. Campus UZ Gent)** (Alireza Nameni)
+**13:00 - 16:00 | Kaggle/excercises/microteaching (Leslokaal 3.2. K3. Campus UZ Gent)** (Enrico Massignani)
 
 Hands on: 
 
