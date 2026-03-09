@@ -39,31 +39,31 @@ For those unable to attend the lectures these lectures cover the classical ML pa
 
 <details>
 
-| Week | Weekdag   | Start datum | Starttijd | Eind datum | Eindtijd | Aard                                                                                 | Lokaal, Gebouw, Campus                              | Lesgever                          | Practicumhelper | Commentaar                                    | Commentaar |
-| ---- | --------- | ----------- | --------- | ---------- | -------- | ------------------------------------------------------------------------------------ | --------------------------------------------------- | --------------------------------- | --------------- | --------------------------------------------- | ---------- |
-| W 10 | Maandag   | 02-03-2026  | 08:30     | 02-03-2026 | 11:30    | hoorcollege                                                                          | Leslokaal 3.1. K3. Campus UZ Gent                   | Robbin Bouwmeester                |                 | Introduction + regression                     |
-| W 10 | Maandag   | 02-03-2026  | 13:00     | 02-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 3.2. K3. Campus UZ Gent                   |                                   | Alireza         | SimpleLR                                      |
-| W 10 | Dinsdag   | 03-03-2026  | 09:00     | 03-03-2026 | 11:30    | hoorcollege                                                                          | Leslokaal 3.1. K3. Campus UZ Gent                   | Robbin Bouwmeester                |                 | logistic regression + regularization          |
-| W 10 | Dinsdag   | 03-03-2026  | 13:00     | 03-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal -1.2. B3. Campus UZ Gent                  |                                   |                 | Model_selection                               |
-| W 10 | Woensdag  | 04-03-2026  | 09:00     | 04-03-2026 | 11:30    | hoorcollege                                                                          | Auditorium C. Dwarsgebouw Links. Campus UZ Gent     | Robbin Bouwmeester                |                 | Model complexity + bias and variance          |
-| W 10 | Woensdag  | 04-03-2026  | 13:00     | 04-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 3.2. K3. Campus UZ Gent                   |                                   | Caroe           | Regularization                                |
-| W 10 | Donderdag | 05-03-2026  | 09:00     | 05-03-2026 | 11:30    | hoorcollege                                                                          | Leslokaal 3.1. B3. Campus UZ Gent                   | Jasper Zuallaert                  |                 |                                               |
-| W 10 | Donderdag | 05-03-2026  | 13:00     | 05-03-2026 | 16:00    | werkcollege                                                                          | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans |                                   |                 | Kaggle competition                            |
-| W 10 | Vrijdag   | 06-03-2026  | 09:00     | 06-03-2026 | 11:30    | hoorcollege                                                                          | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans | Robbin Bouwmeester                |                 | Ensemble + autoML + other modern classical ML |
-| W 10 | Vrijdag   | 06-03-2026  | 13:00     | 06-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 3.2. K3. Campus UZ Gent                   |                                   | Enrico          | DT                                            |
-| W 11 | Maandag   | 09-03-2026  | 09:00     | 09-03-2026 | 11:30    | hoorcollege                                                                          | Leslokaal 3.2. K3. Campus UZ Gent                   | Ralf Gabriels                     |                 | Deep Neural Networks                          |
-| W 11 | Maandag   | 09-03-2026  | 13:00     | 09-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 3.2. K3. Campus UZ Gent                   |                                   | Robbe           |                                               |
-| W 11 | Dinsdag   | 10-03-2026  | 09:00     | 10-03-2026 | 11:30    | hoorcollege                                                                          | Leslokaal 3.1. K3. Campus UZ Gent                   | Ralf Gabriels                     |                 | CNNs                                          |
-| W 11 | Dinsdag   | 10-03-2026  | 13:00     | 10-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal -1.2. B3. Campus UZ Gent                  |                                   | Sander          |                                               |
-| W 11 | Woensdag  | 11-03-2026  | 09:00     | 11-03-2026 | 11:30    | hoorcollege                                                                          | Lokaal 0.1 - Rosalyn Yalow. Blok A. Campus Heymans  | Ralf Gabriels                     |                 | RNNs                                          |
-| W 11 | Woensdag  | 11-03-2026  | 13:00     | 11-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 3.1. K3. Campus UZ Gent                   |                                   | Robbe           |                                               |
-| W 11 | Donderdag | 12-03-2026  | 09:00     | 12-03-2026 | 11:30    | hoorcollege                                                                          | Leslokaal 3.2. K3. Campus UZ Gent                   | Ralf Gabriels                     |                 | Transformers and co                           |
-| W 11 | Donderdag | 12-03-2026  | 13:00     | 12-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 5.2. B3. Campus UZ Gent                   |                                   | Sander          |                                               |
-| W 11 | Vrijdag   | 13-03-2026  | 09:00     | 13-03-2026 | 11:30    | hoorcollege                                                                          | Auditorium C. Dwarsgebouw Links. Campus UZ Gent     | Ralf Gabriels                     |                 | Foundation models                             |
-| W 11 | Vrijdag   | 13-03-2026  | 13:00     | 13-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 3.1. K3. Campus UZ Gent                   |                                   | Alireza         |                                               |
-| W 12 | Maandag   | 16-03-2026  | 09:00     | 16-03-2026 | 11:30    | hoorcollege                                                                          | Leslokaal 5.1. B3. Campus UZ Gent                   | Ralf Gabriels, Robbin Bouwmeester |                 | Microteaching                                 |
-| W 12 | Maandag   | 16-03-2026  | 13:00     | 16-03-2026 | 16:00    | werkcollege                                                                          | Leslokaal 5.1. B3. Campus UZ Gent                   |                                   |                 |                                               |
-| W 25 | Donderdag | 18-06-2026  | 13:00     | 18-06-2026 | 16:00    | schriftelijke evaluatie met meerkeuzevragen, schriftelijke evaluatie met open vragen | Leslokaal 3.2. K3. Campus UZ Gent                   |                                   |                 |                                               |
+| Datum                | Tijd          | Aard        | Lokaal, Gebouw, Campus                              | Lesgever / practicumhelper        | Onderwerp                                            |
+| -------------------- | ------------- | ----------- | --------------------------------------------------- | --------------------------------- | ---------------------------------------------------- |
+| Maandag 02-03-2026   | 08:30 - 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent                   | Robbin Bouwmeester                | Lecture: _Introduction + regression_                 |
+| Maandag 02-03-2026   | 13:00 - 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent                   | Alireza                           | Practical: _Simple regression_                       |
+| Dinsdag 03-03-2026   | 09:00 - 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent                   | Robbin Bouwmeester                | Lecture: _Logistic regression + regularization_      |
+| Dinsdag 03-03-2026   | 13:00 - 16:00 | werkcollege | Leslokaal -1.2. B3. Campus UZ Gent                  |                                   | Practical: _Regularization_                          |
+| Woensdag 04-03-2026  | 09:00 - 11:30 | hoorcollege | Auditorium C. Dwarsgebouw Links. Campus UZ Gent     | Robbin Bouwmeester                | Lecture: _Model complexity + bias and variance_      |
+| Woensdag 04-03-2026  | 13:00 - 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent                   | Caroe                             | Practical: _Decision trees_                          |
+| Donderdag 05-03-2026 | 09:00 - 11:30 | hoorcollege | Leslokaal 3.1. B3. Campus UZ Gent                   | Jasper Zuallaert                  | Guest lecture: _Alphafold_                           |
+| Donderdag 05-03-2026 | 13:00 - 16:00 | werkcollege | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans |                                   | Project: _Kaggle competition_                        |
+| Vrijdag 06-03-2026   | 09:00 - 11:30 | hoorcollege | Lokaal 0.2 - Gertrude Elion. Blok A. Campus Heymans | Robbin Bouwmeester                | Lecture: _Clustering and dimensionality reduction_   |
+| Vrijdag 06-03-2026   | 13:00 - 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent                   | Enrico                            | Practical: _Clustering and dimensionality reduction_ |
+| Maandag 09-03-2026   | 09:00 - 11:30 | hoorcollege | Leslokaal 3.2. K3. Campus UZ Gent                   | Ralf Gabriels                     | Lecture: _Neural networks_                           |
+| Maandag 09-03-2026   | 13:00 - 16:00 | werkcollege | Leslokaal 3.2. K3. Campus UZ Gent                   | Robbe                             | Practical & project                                  |
+| Dinsdag 10-03-2026   | 09:00 - 11:30 | hoorcollege | Leslokaal 3.1. K3. Campus UZ Gent                   | Ralf Gabriels                     | Lecture: _Convolutional neural networks_             |
+| Dinsdag 10-03-2026   | 13:00 - 16:00 | werkcollege | Leslokaal -1.2. B3. Campus UZ Gent                  | Sander                            | Practical & project                                  |
+| Woensdag 11-03-2026  | 09:00 - 11:30 | hoorcollege | Lokaal 0.1 - Rosalyn Yalow. Blok A. Campus Heymans  | Ralf Gabriels                     | Lecture: _Recurrent neural networks & transformers_  |
+| Woensdag 11-03-2026  | 13:00 - 16:00 | werkcollege | Leslokaal 3.1. K3. Campus UZ Gent                   | Robbe                             | Practical & project                                  |
+| Donderdag 12-03-2026 | 09:00 - 11:30 | hoorcollege | Leslokaal 3.2. K3. Campus UZ Gent                   | Ralf Gabriels                     | Lecture: _Foundation models_                         |
+| Donderdag 12-03-2026 | 13:00 - 16:00 | werkcollege | Leslokaal 5.2. B3. Campus UZ Gent                   | Sander                            | Practical & project                                  |
+| Vrijdag 13-03-2026   | 09:00 - 11:30 | hoorcollege | Auditorium C. Dwarsgebouw Links. Campus UZ Gent     | Ralf Gabriels                     | Recap and Q&A                                        |
+| Vrijdag 13-03-2026   | 13:00 - 16:00 | werkcollege | Leslokaal 3.1. K3. Campus UZ Gent                   | Alireza                           | Practical & project                                  |
+| Maandag 16-03-2026   | 09:00 - 11:30 | hoorcollege | Leslokaal 5.1. B3. Campus UZ Gent                   | Ralf Gabriels, Robbin Bouwmeester | Microteaching                                        |
+| Maandag 16-03-2026   | 13:00 - 16:00 | werkcollege | Leslokaal 5.1. B3. Campus UZ Gent                   | Ralf Gabriels, Robbin Bouwmeester | Microteaching                                        |
+| Donderdag 18-06-2026 | 13:00 - 16:00 | Examen      | Leslokaal 3.2. K3. Campus UZ Gent                   |                                   |                                                      |
 
 </details>
 
@@ -237,6 +237,29 @@ Hands on:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/compomics/D012554A_2025/blob/main/notebooks/day_6/2-pytorch-lightning.ipynb)
 
+</details>
+
+### Day 7 (Tuesday - 10th March)
+
+<details>
+
+---
+
+**9:00 - 11:30 | Convolutional neural networks (Leslokaal 3.1. K3. Campus UZ Gent)** (Ralf Gabriels)
+
+Lecture slides:
+
+[Neural networks](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_7/convolutional-neural-networks.pdf)
+
+---
+
+**13:00 - 16:00 | Kaggle/excercises (Leslokaal -1.2. B3. Campus UZ Gent)** (Sander Heyndrickx)
+
+Hands on:
+
+[3-convolutional-neural-networks.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_7/3-convolutional-neural-networks.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/compomics/D012554A_2025/blob/main/notebooks/day_7/3-convolutional-neural-networks.ipynb)
 
 </details>
 
