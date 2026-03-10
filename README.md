@@ -271,7 +271,7 @@ Hands on:
 
 **9:00 - 11:30 | Recurrent neural networks & transformers (Lokaal 0.1 - Rosalyn Yalow. Blok A. Campus Heymans)** (Ralf Gabriels)
 
-Lecture slides: TBA
+[Recurrent neural networks & transformers](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_8/recurrent-neural-networks-transformers.pdf)
 
 ---
 
