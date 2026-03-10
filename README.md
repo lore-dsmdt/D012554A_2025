@@ -263,6 +263,28 @@ Hands on:
 
 </details>
 
+### Day 8 (Wednesday - 11th March)
+
+<details>
+
+---
+
+**9:00 - 11:30 | Recurrent neural networks & transformers (Lokaal 0.1 - Rosalyn Yalow. Blok A. Campus Heymans)** (Ralf Gabriels)
+
+Lecture slides: TBA
+
+---
+
+**13:00 - 16:00 | Kaggle/excercises (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbe Devreese)
+
+Hands on:
+
+[4-recurrent-neural-networks.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_8/4-recurrent-neural-networks.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/compomics/D012554A_2025/blob/main/notebooks/day_8/4-recurrent-neural-networks.ipynb)
+
+</details>
+
 ## Further learning
 
 - [Coursera ML course](https://www.coursera.org/specializations/machine-learning-introduction)
