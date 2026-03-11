@@ -285,6 +285,28 @@ Hands on:
 
 </details>
 
+### Day 9 (Thursday - 12th March)
+
+<details>
+
+---
+
+**9:00 - 11:30 | Foundation models (Leslokaal 3.2. K3. Campus UZ Gent)** (Ralf Gabriels)
+
+[Foundation models](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_9/foundation-models.pdf)
+
+---
+
+**13:00 - 16:00 | Kaggle/excercises (Leslokaal 3.1. K3. Campus UZ Gent)** (Robbe Devreese)
+
+Hands on:
+
+[5-foundation-models.ipynb](https://github.com/CompOmics/D012554A_2025/blob/main/notebooks/day_9/5-foundation-models.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/compomics/D012554A_2025/blob/main/notebooks/day_9/5-foundation-models.ipynb)
+
+</details>
+
 ## Further learning
 
 - [Coursera ML course](https://www.coursera.org/specializations/machine-learning-introduction)
