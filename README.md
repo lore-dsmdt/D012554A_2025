@@ -307,7 +307,7 @@ Hands on:
 
 </details>
 
-### Day 10 (Thursday - 13th March)
+### Day 10 (Friday - 13th March)
 
 <details>
 
