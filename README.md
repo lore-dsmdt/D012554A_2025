@@ -307,6 +307,24 @@ Hands on:
 
 </details>
 
+### Day 10 (Thursday - 13th March)
+
+<details>
+
+---
+
+**9:00 - 11:30 | Recap** (Ralf Gabriels & Robbin Bouwmeester)
+
+ [Classical ML recap](https://github.com/CompOmics/D012554A_2025/raw/refs/heads/main/slides/day_10/recap_classical_ml.pptx)
+
+---
+
+**13:00 - 16:00 | Kaggle/microteaching** (Alireza Nameni)
+
+
+</details>
+
+
 ## Further learning
 
 - [Coursera ML course](https://www.coursera.org/specializations/machine-learning-introduction)
